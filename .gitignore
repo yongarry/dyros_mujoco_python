@@ -1,3 +1,4 @@
-MUJOCO_LOG
+MUJOCO_LOG.TXT
 __pycache__
 *.pyc
+.DS_Store
